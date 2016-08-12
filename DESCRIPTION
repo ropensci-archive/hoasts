@@ -1,0 +1,16 @@
+Package: hoasts
+Type: Package
+Title: Host and Parasite Data Across Sources
+Description: Host and Parasite Data Across Sources.
+Version: 0.0.1.9000
+Date: 2016-08-11
+Authors@R: c(person("Scott", "Chamberlain", role = c("aut", "cre"),
+    email = "myrmecocystus@gmail.com"))
+License: MIT + file LICENSE
+URL: https://github.com/ropenscilabs/hoasts
+BugReports: https://github.com/ropenscilabs/hoasts/issues
+Imports:
+    rgbif (>= 0.9.4)
+Suggests:
+    roxygen2 (>= 5.0.1)
+RoxygenNote: 5.0.1

@@ -1,0 +1,14 @@
+hoasts
+======
+
+```{r echo=FALSE}
+knitr::opts_chunk$set(
+  warning = FALSE,
+  message = FALSE,
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+`hoasts` - gather data from occurrence databases that have information on
+host/parasite or similar stuff.
