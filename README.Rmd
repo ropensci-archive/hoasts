@@ -1,5 +1,0 @@
-hoasts
-======
-
-`hoasts` - gather data from occurrence databases that have information on
-host/parasite or similar stuff.
